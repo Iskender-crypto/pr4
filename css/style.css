@@ -53,6 +53,7 @@ header {
 .navbar_menu li:hover {
   background-color: rgba(0, 0, 0, 0.3);
   border-bottom: 2px solid white;
+  
 }
 
 .burger {
